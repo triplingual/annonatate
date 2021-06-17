@@ -1,0 +1,30 @@
+---
+canvas: "https://iiif.io/api/image/3.0/example/reference/918ecd18c2592080851777620de9bcb5-gottingen/full/max/0/default.jpg"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Goose girl sculpture",
+            "purpose": "highlighting",
+            "creator": {
+                "id": "triplingual",
+                "name": "Trip Kirkpatrick"
+            },
+            "created": "2021-06-17T13:59:54.928Z",
+            "modified": "2021-06-17T14:00:07.758Z"
+        }
+    ],
+    "target": {
+        "source": "https://iiif.io/api/image/3.0/example/reference/918ecd18c2592080851777620de9bcb5-gottingen/full/max/0/default.jpg",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:749.5004272460938,1054.8348388671875,338.64349365234375,460.24853515625"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "{{site.url}}{{site.baseurl}}/annotations/bbfdb8bf-ce15-4099-89ed-aa2331dc6cf2.json"
+}

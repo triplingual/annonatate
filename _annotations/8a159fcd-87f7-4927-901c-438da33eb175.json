@@ -1,0 +1,30 @@
+---
+canvas: "https://upload.wikimedia.org/wikipedia/commons/7/7e/PowersBibleQuilt_1886.jpg"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Snake?",
+            "purpose": "commenting",
+            "creator": {
+                "id": "triplingual",
+                "name": "Trip Kirkpatrick"
+            },
+            "created": "2021-06-17T13:57:40.494Z",
+            "modified": "2021-06-17T13:57:41.416Z"
+        }
+    ],
+    "target": {
+        "source": "https://upload.wikimedia.org/wikipedia/commons/7/7e/PowersBibleQuilt_1886.jpg",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:155.94447326660156,7.08070707321167,82.40538024902344,89.57737398147583"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "{{site.url}}{{site.baseurl}}/annotations/8a159fcd-87f7-4927-901c-438da33eb175.json"
+}

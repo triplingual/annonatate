@@ -15,6 +15,17 @@ order: 1
             },
             "created": "2021-06-17T13:59:54.928Z",
             "modified": "2021-06-17T14:00:07.758Z"
+        },
+        {
+            "type": "TextualBody",
+            "value": "Reply goes here",
+            "purpose": "commenting",
+            "creator": {
+                "id": "triplingual",
+                "name": "Trip Kirkpatrick"
+            },
+            "created": "2021-06-17T14:00:33.436Z",
+            "modified": "2021-06-17T14:00:35.551Z"
         }
     ],
     "target": {
